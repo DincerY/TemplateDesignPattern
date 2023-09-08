@@ -29,7 +29,7 @@ namespace Template_Design_Pattern
 
         public override void FiyatDegis()
         {
-            Fiyat = 1000;
+            Fiyat = 100;
         }
     }
 }
